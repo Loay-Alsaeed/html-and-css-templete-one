@@ -94,12 +94,15 @@ body {
 
 .header {
     padding: 20px;
+    height: 100px;
+
 }
 
 .header .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 80px
 }
 
 .header .logo {
